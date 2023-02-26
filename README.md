@@ -2,7 +2,6 @@
 The project was accomplished by employing supervised learning, ensemble modeling, and unsupervised learning techniques to build and train a prediction model to identify Pass/Fail yield of a particular process entity for a semiconductor manufacturing company. This project helps to determine key factors contributing to yield excursions downstream in the process and will enable an increase in process throughput, decreased time to learn and reduce per-unit production costs. Dataset – The dataset pr
 # Skills and Tools: 
 Supervised learning, PCA, Feature engineering, Model tuning, Grid Search, python
-# Part A:
 # Domain:
 Semiconductor manufacturing process
 # CONTEXT: 
